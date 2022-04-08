@@ -6,12 +6,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
  * @Description: 通过selenium操作浏览器打开百度进行搜索
- * selenium版本：3.12.0； 通过maven管理jar包
- * 开发工具：IDEA
- * jdk：1.8
- * 浏览器：chrome 75+
- * @Author: ggf
- * @Date: 2020/03/22
  */
 public class BaiduSearchMine {
 
